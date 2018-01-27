@@ -12,7 +12,7 @@
             "name": "simple-app",
             "image": "amazon/amazon-ecs-sample",
             "cpu": 10,
-            "memory": 100,
+            "memory": 512,
             "portMappings": [
                 {
                     "containerPort": 80,
